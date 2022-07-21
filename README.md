@@ -160,4 +160,4 @@ The TwilioQuest extension authoring tools are under active development, and we w
 
 ## Reference Video
 
-For understanding the concept in a better way, one can watch this video : [Make your own TwilioQuest Extension](#https://youtu.be/O-CQURZWHSc)
+For understanding the concept in a better way, one can watch this video : https://youtu.be/O-CQURZWHSc
